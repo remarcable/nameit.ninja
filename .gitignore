@@ -1,5 +1,6 @@
 bower_components
 node_modules
 settings.json
-.meteor
+.meteor/local
+.meteor/meteorite
 .DS_Store
