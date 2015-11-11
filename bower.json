@@ -1,0 +1,30 @@
+{
+  "name": "Olymp",
+  "main": "olymp.js",
+  "authors": [
+    "Marc Nitzsche <marc.nitzsche@live.de>"
+  ],
+  "description": "Now you don't have to worry about your project's name anymore.",
+  "moduleType": [],
+  "keywords": [
+    "rescue",
+    "ectravagance",
+    "responsiveness",
+    "meteor",
+    "project",
+    "name"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "Skeleton-Sass": "skeleton-scss#*"
+  }
+}
