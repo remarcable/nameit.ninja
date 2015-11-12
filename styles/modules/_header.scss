@@ -2,12 +2,12 @@
 //
 
 header.heading {
-  background: url('/assets/1.jpg');
+  background-image: url('/assets/1.jpg');
+  background-color: #fff;
   height: auto;
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
-  margin-bottom: 50px;
 }
 @media (min-width: 840px) {
   header.heading {
