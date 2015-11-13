@@ -25,6 +25,7 @@
 
 <body>
   <header class="heading white">
+    {{> loginButtons }}
     <div class="container margin-bottom-big padding-top-big">
       <div class="row valign">
         <div class="three columns container">
@@ -43,6 +44,9 @@
           <div class="row">
             <div class="seven columns">
               <h5>Now you don't have to worry about your project's name anymore.</h5>
+              {{#if currentUser}}
+              You are now logged in. Cool, right?
+              {{/if}}
             </div>
           </div>
         </div>
