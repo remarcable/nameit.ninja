@@ -18,4 +18,4 @@ Ninja is surprisingly intelligent. With its life-long experience of naming thing
 
 
 ### License
-NameItNinja is MIT-Licensed.
+NameItNinja is MIT-licensed.
