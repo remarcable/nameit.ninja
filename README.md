@@ -1,17 +1,21 @@
-# Olymp
-Now you don't have to worry about your project's name anymore.
+# NameItNinja!
+Now you don't have to worry about your project's name anymore. Because now you can just say: **"Name it, Ninja!"** and Ninja will help you.
 
-### What is Olymp?
-Olymp is a service for choosing a name for your project.
+### What?!
+NameItNinja helps you choose a name for your project.
 
-### What features does Olymp offer?
-Olymp can help you with the following:
+
+### Features
 
 #### Rescue
-Olymp will help you when your mind has some dropouts. It will recover hidden parts in your brain and access them with our new technology called "olymping".
+In case you have to run from zombies or defeat an army of robots (or tie your sneakers): Ninja will help you in the very last minute.
 
 #### Extravagance
-Olymp will provide you names that are pronouncable and unique. It uses many sources of information and take all of them into accout.
+Ninja will create names for you that are pronounceable and very unique. That's a ninja-superpower!
 
 #### Responsiveness
-Olymp generates your name in realtime. It's intelligent system will always help you while you are typing in details about your project.
+Ninja is surprisingly intelligent. With its life-long experience of naming things, it will find a name that is tailored for you and your project.
+
+
+### License
+NameItNinja is MIT-Licensed.
